@@ -1,0 +1,14 @@
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/config/FeignConfig.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/service/userservice.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/model/usersess.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/repo/userrepo.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/config/RedisConfig.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/feign/ProductServiceClient.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/service/MailjetEmailService.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/DemoApplication.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/controller/UserController.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/feign/TransactionServiceClient.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/model/User.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/repo/UserProductListRepository.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/service/SessionManager.java
+/Users/omarrhazemkhattab/Downloads/aclfinal/src/main/java/com/example/demo/model/UserProductList.java
